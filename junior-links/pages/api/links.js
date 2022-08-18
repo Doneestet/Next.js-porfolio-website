@@ -23,8 +23,8 @@ const links = [
 	// 		from: '#fc5dff',
 	// 		to: '#5dfdff'
 	// 	},
-	// 	link: 'https://htmllessons.ru/premium',
-	// 	title: 'Та самая премиум подписка',
+	// 	link: '/',
+	// 	title: '',
 	// 	isImportant: true
 	// },
 	// {
@@ -39,7 +39,7 @@ const links = [
 	// 		to: '#4BC0C8'
 	// 	},
 	// 	link: 'https://t.me/dmitriy_kors',
-	// 	title: 'Как купить из других стран'
+	// 	title: ''
 	// },
 	{
 		_id: 'link_4',
@@ -57,15 +57,15 @@ const links = [
 // 	{
 // 		_id: 'link_5',
 // 		icon: {
-// 			path: '/icons/intensives.svg',
+// 			path: '/',
 // 			width: 150
 // 		},
 // 		gradient: {
 // 			from: '#c659ff',
 // 			to: '#ff3f4d'
 // 		},
-// 		link: 'https://htmllessons.ru/list-intensives',
-// 		title: 'Список интенсивов по подписке'
+// 		link: '/',
+// 		title: ''
 // 	},
 // 	{
 // 		_id: 'link_6',
@@ -77,7 +77,7 @@ const links = [
 // 			from: '#3EA6EA',
 // 			to: '#2179c1'
 // 		},
-// 		link: 'https://www.youtube.com/watch?v=_jquc4KJ4IU',
+// 		link: '/',
 // 		title: 'Мой сетап VS Code'
 // 	},
 	// {
@@ -103,8 +103,8 @@ const links = [
 // 			from: '#FF385C',
 // 			to: '#dd2e63'
 // 		},
-// 		link: 'https://abnb.me/e/Mgl6khUuN3',
-// 		title: 'Получи 4000 руб. на бронирование'
+// 		link: '',
+// 		title: ''
 // 	},
 // 	{
 // 		_id: 'link_9',
@@ -116,8 +116,8 @@ const links = [
 // 			from: '#f6d365',
 // 			to: '#fda085'
 // 		},
-// 		link: 'https://www.youtube.com/channel/UCdpPBwKPriPIP2eyP9a1C6g/join',
-// 		title: 'Уникальный значок и эмоджи'
+// 		link: '',
+// 		title: ''
 // 	},
 // 	{
 // 		_id: 'link_10',
@@ -129,8 +129,8 @@ const links = [
 // 			from: '#ff8d42',
 // 			to: '#ff8257'
 // 		},
-// 		link: 'https://boosty.to/redgroup',
-// 		title: 'Эксклюзивный контент'
+// 		link: '',
+// 		title: ''
 // 	}
 ]
 
